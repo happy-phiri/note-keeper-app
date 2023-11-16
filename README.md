@@ -3,7 +3,7 @@ The Note Keeper App is a simple application that allows users to create, read, u
 
 ## Live Site Url
 
-https://note-keeper-app-hp.netlify.app/
+https://note-keeper-hp.netlify.app/
 
 ## Features
 
