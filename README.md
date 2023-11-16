@@ -3,6 +3,8 @@ The Note Keeper App is a simple application that allows users to create, read, u
 
 ## Live Site Url
 
+https://note-keeper-app-hp.netlify.app/
+
 ## Features
 
 1. Create new notes with a title and content.
@@ -14,7 +16,7 @@ The Note Keeper App is a simple application that allows users to create, read, u
 
 1. Clone the Repository:
 
-## git clone https://github.com/your-username/note-keeper-app.git
+## git clone https://github.com/happy-phiri/note-keeper-app.git
 
 ## cd note-keeper-app
 
